@@ -26,4 +26,6 @@ int main() {
 
         cout << quarter << " " << dime << " " << nickel << " " << penny << endl;
     }
+
+    return 0;
 }
